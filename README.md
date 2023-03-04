@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>HEllo React Front End</b></h3>
 
 </div>
 
@@ -64,11 +64,11 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello_React_Frontend]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="react_js"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="redux"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Generate_random_greetings]**
+- **[Fetch_data_from_Rails_API]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,6 +112,7 @@ After you're finished please remove all the comments and instructions!
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
+- [Live To the Project Backend](https://github.com/RichardChileya/hello-rails-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,52 +127,28 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A laptop/ computer
+- node js
+- VS Code/ Sublime (Any code editor)
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+- clone my repo to your machine 
+  - git clone https://github.com/RichardChileya/hello-react-front-end.git
+  - cd hello-react-front-end
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+install all dependancies by running:
+  npm install
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Run npm start
 
 ### Run tests
 
@@ -207,15 +184,11 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@RichardChileya](https://github.com/richardchileya)
+- Twitter: [@RichardChileya](https://twitter.com/richardchileya)
+- LinkedIn: [RichardChileya](https://linkedin.com/in/richardchileya)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +198,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[nav_bar]**
+- [ ] **[images]**
+- [ ] **[country_of_origin_for_specific_message ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +210,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/RichardChileya/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -263,19 +236,7 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
